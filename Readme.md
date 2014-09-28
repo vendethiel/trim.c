@@ -4,7 +4,7 @@
 
 # Installation
 
-`$ cpm install nami-doc/trim.c`
+`$ clib install nami-doc/trim.c`
 
 ## Example
 
