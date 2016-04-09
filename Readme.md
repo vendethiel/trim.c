@@ -4,7 +4,7 @@
 
 # Installation
 
-`$ clib install nami-doc/trim.c`
+`$ clib install vendethiel/trim.c`
 
 ## Example
 
