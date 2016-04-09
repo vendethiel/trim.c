@@ -10,5 +10,5 @@
 
 ```c
 char *str = "hello world ";
-trim(str);
+str = trim(str);
 ``` 
