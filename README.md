@@ -9,6 +9,6 @@
 ## Example
 
 ```c
-char *str = strdup("hello world ");
+char[] str = "hello world ";
 str = trim(str);
 ``` 
